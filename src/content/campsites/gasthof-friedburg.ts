@@ -124,7 +124,7 @@ const gasthofFriedburg: CampsiteConfig = {
       },
       {
         title: "Mit der Bahn",
-        text: "Internationale Züge bis Zell am See, weiter mit der Pinzgauer Lokalbahn oder dem Bus nach Neukirchen/Rosental — gerne holen wir dich vom Bahnhof ab.",
+        text: "Internationale Züge bis Zell am See, weiter mit der Salzburger Lokalbahn oder dem Bus nach Neukirchen/Rosental — gerne holen wir dich vom Bahnhof ab.",
       },
       {
         title: "Mit dem Flugzeug",
