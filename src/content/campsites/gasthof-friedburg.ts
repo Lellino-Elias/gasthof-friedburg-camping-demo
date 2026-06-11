@@ -11,8 +11,7 @@ const gasthofFriedburg: CampsiteConfig = {
   brandKind: "Wohnmobil-Stellplatz",
   regionLong: "Nationalpark Hohe Tauern · Pinzgau · Salzburg",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Dein Stellplatz hoch über dem Salzachtal",
   claimEmphasis: "über dem Salzachtal",
