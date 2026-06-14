@@ -103,7 +103,7 @@ const gasthofFriedburg: CampsiteConfig = {
       },
       {
         title: "Restaurant im Gasthof",
-        text: "Direkt nebenan im Gasthof Friedburg kocht der Chef selbst — regionale und internationale Spezialitäten, dazu Brot- und Brötchenservice.",
+        text: "Direkt nebenan kocht der Chef selbst — regionale und internationale Spezialitäten, Brot- und Brötchenservice inklusive.",
         image: { src: `${IMG}/gallery-a452c80f10.webp`, alt: "Gasthof Friedburg am Hang mit Bergpanorama" },
       },
       {
