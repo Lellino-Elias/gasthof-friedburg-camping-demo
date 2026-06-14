@@ -89,7 +89,7 @@ const gasthofFriedburg: CampsiteConfig = {
       {
         title: "Platz für große Reisemobile",
         text: "Der feste Schotteruntergrund trägt jede Gewichtsklasse und auch Fahrzeuge über 8 Meter — bei jedem Wetter gut befahrbar.",
-        image: { src: `${IMG}/amenity-179d8c9e52.webp`, alt: "Lauschiger Sitzplatz im Grünen neben dem Reisemobil mit Bergblick" },
+        image: { src: `${IMG}/amenity-0ee330ba3f.webp`, alt: "Reisemobil am Stellplatz mit Aussicht ins Salzachtal und Bergpanorama" },
       },
       {
         title: "Das ganze Jahr geöffnet",
@@ -99,7 +99,7 @@ const gasthofFriedburg: CampsiteConfig = {
       {
         title: "Garten & Liegewiese",
         text: "Zum Verweilen laden ein lauschiger Sitzplatz im Grünen und die Liegewiese mit weitem Blick über das Tal ein.",
-        image: { src: `${IMG}/amenity-0ee330ba3f.webp`, alt: "Begrünter Sitzplatz neben dem Reisemobil mit Bergblick" },
+        image: { src: `${IMG}/gallery-ead0afe26e.webp`, alt: "Liegewiese mit Sonnenliegen und weitem Panoramablick ins Salzachtal" },
       },
       {
         title: "Restaurant im Gasthof",
